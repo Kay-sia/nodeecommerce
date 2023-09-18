@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "ecommerce plant shop",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaysia",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0"
+  }
+}
